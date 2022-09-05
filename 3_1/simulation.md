@@ -46,4 +46,5 @@
   > 전철을 기다리는 시간, 특정 구간에서 고루 분포되는 값
 ### 정규분포
   > 수능 점수 등 평균, 표준편차가 뚜렷한 값
+![image](https://user-images.githubusercontent.com/22282950/188367061-c874e125-e25d-40ae-913b-fcb13c3e1624.png)
 
