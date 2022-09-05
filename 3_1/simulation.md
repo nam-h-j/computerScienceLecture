@@ -45,7 +45,7 @@
 ### 연속형 일양분포
   > 전철을 기다리는 시간, 특정 구간에서 고루 분포되는 값
 
-![image](https://user-images.githubusercontent.com/22282950/188367299-0b51792c-c81c-476b-b5b7-e40ddf7f9874.png){: width="300"}
+![image](https://user-images.githubusercontent.com/22282950/188367299-0b51792c-c81c-476b-b5b7-e40ddf7f9874.png){ : width="300"}
 
 ### 정규분포
   > 수능 점수 등 평균, 표준편차가 뚜렷한 값
