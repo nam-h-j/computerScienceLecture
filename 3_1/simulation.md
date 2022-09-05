@@ -52,3 +52,13 @@
 
 ![image](https://user-images.githubusercontent.com/22282950/188367061-c874e125-e25d-40ae-913b-fcb13c3e1624.png)
 
+### 지수분포
+  > 시간의 간격을 주로 표현
+  
+![image](https://user-images.githubusercontent.com/22282950/188368702-593897f3-c72d-4db4-bc7e-93ba936ec78d.png)
+
+### 포아송 분포(poission distribution)
+  > 출생자 수 등 이산형 값들을 표현
+
+![image](https://user-images.githubusercontent.com/22282950/188368912-4ea6d25e-1cbb-41fb-ab4b-1f2d6aea5df1.png)
+
