@@ -18,6 +18,7 @@ perhig = 10 //최대예상인상률
 perlow = 0 //최저예상인상률
 perint = 3 //이율
 year = 0 //저축햇수
+salary = 30000000//연봉
 savings = 0 //저축액
 
 while(year < 30)
@@ -45,3 +46,5 @@ salary = salary + perinc * salary
 print year, salary, savings
 }
 ```
+
+
