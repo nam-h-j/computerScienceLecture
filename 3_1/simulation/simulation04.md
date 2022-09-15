@@ -12,4 +12,21 @@
     - queue //대기열
     - tpump //소요시간 (평균 4분 포아송분포)
 
-### 포아송분포?
+### 포아송분포 예제
+```c++
+//포아송 알고리즘
+void poissn(long *np, float mean, int *pp){
+  float prod, b, u;
+  *pp = 0;
+  b = exp(-mean);
+  prod = 1;
+  random(np, &u);
+  prod = prod * u;
+  while(prod >= b)
+  {
+    random(np, &u);
+    prod=prod*u;
+    ++(*pp);
+  }
+}
+```
